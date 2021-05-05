@@ -59,12 +59,12 @@ method for the three simulations described in the paper.
 
 1) Download the .zip file and extract the contents to a folder of your
 choosing.  In what follows, we will assume the folder is saved with the 
-following path 'C:\BartSPEC'.
+following path 'C:\BayesSumOfTreesSPEC'.
 
 2) Open R or RStudio (version 4.0.3 or newer is recommended) and path to the
-directory to 'C:/BartSPEC'.  
+directory to 'C:/BayesSumOfTreesSPEC'.  
 
-3) Open the file 'C:/BartSPEC/demo.R'.  Follow the instruction in the 
+3) Open the file 'C:/BayesSumOfTreesSPEC/demo.R'.  Follow the instruction in the 
 beginning of the file to install the packages needed to reproduce the 
 Bayesian sum of trees model. 
 
