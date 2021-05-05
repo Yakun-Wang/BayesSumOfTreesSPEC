@@ -136,6 +136,6 @@ priors. See 'demo.R' comments for descriptions of all the parameters.
 
 
 Once you have created these inputs based on your data, you can pass
-them into the 'CABS' function just as in the demo file for estimation.
+them into the 'BayesSumOfTreesSPEC' function just as in the demo file for estimation.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
